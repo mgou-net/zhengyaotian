@@ -11,7 +11,7 @@
 * [***Web***, Web建站技术](/Web)
 * [***Mobile***, 手机应用相关](/Mobile)
 * [***Config***, 配置管理](/Configuration)
-* [***System***, 操作系统相关，包括分布式系统](/Configuration)
+* [***System***, 操作系统相关，包括分布式系统](/System)
 * [***Onlooker***, 对世界的看法，做个冷静客观的旁观者](/Onlooker)
 * [***English***, 掌握这门类世界语言](/English_Study)
 * [***AboutMe***, 哎，不太愿意写自己，给我留言的话我就写](/AboutMe)
