@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-haha
-=======
 # Go
->>>>>>> origin/master
+haha
