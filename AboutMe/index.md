@@ -1,5 +1,5 @@
 # 关于我
-
+ <wb:follow-button uid="1904178193" type="red_1" width="67" height="24" ></wb:follow-button>
 
 ```
 生命就像 一条大河
@@ -39,4 +39,6 @@
 飞得更高
 飞得更高
 ```
+
+ <wb:follow-button uid="1904178193" type="red_1" width="67" height="24" ></wb:follow-button>
 
