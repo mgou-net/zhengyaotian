@@ -40,5 +40,4 @@
 飞得更高
 ```
 
- <wb:follow-button uid="1904178193" type="red_1" width="67" height="24" ></wb:follow-button>
 
