@@ -13,7 +13,7 @@ Git的作用不单单是代码管理了。它被扩展成用来管理任何文�
 加入一下内容
     
 	alias g0='git fetch origin;git merge origin/master'
-	alias g1='git add -u'
+	alias g1='git add -u;git add *'
 	alias g2='git commit -m "`date`"'
 	alias g3='git push origin master'
 
