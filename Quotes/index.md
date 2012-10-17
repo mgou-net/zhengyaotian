@@ -6,3 +6,9 @@
 
 心灵粮仓
 
+```
+The people who get on in this world are the people who get up and look for circumstances they want , and if they cannot find them .they make them.(George Bernard Shaw , British dramatist )  
+
+在这个世界上，取得成功的人是那些努力寻找他们想要机会的人，如果找不到机会，他们就去创造机会。( 英国剧作家 肖伯纳. G.)
+```
+
