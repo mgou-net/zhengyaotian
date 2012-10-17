@@ -4,7 +4,7 @@
 
 有没有听过一段话后忽然醍醐灌顶?
 
-心灵粮仓
+Quotes是一种心灵粮仓?
 
 ```
 The people who get on in this world are the people who get up and look for circumstances they want , and if they cannot find them .they make them.(George Bernard Shaw , British dramatist )  
