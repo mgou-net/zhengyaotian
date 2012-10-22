@@ -2,7 +2,7 @@
 
 我有VPS， 所以对与这个来说，最简单的方法是用ssh 隧道来实现。具体步骤如下
 
-1.目前有很多的VPS,便宜的有Burst net. 速度快而稳定的有[Linode](http://www.linode.com/?r=d9ee76f48097286f4832d02e67930354125e9f7d),基本上所有的VPS都支持ssh登陆的。
+1.目前有很多的VPS,便宜的有[Burst net](https://service.burst.net/aff.php?aff=2002),最便宜的不到6美金. 速度快而稳定的有[Linode](http://www.linode.com/?r=d9ee76f48097286f4832d02e67930354125e9f7d),基本上所有的VPS都支持ssh登陆的。
 
 2.在mac上运行下面命令
 
