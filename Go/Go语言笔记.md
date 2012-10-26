@@ -67,9 +67,12 @@ func (p T) DoSomething() 就只指向一个类型T，不能够改变特定的T�
 	lock sync.Mutex
 	buffer bytes.Buffer
 	}
-	SyncedBuffer 的值在分配内存或定义之后立刻就可以使用。在这个片段中， p 和
-	v 都可以在没有任何更进一步处理的情况下工作。
-	p := new(SyncedBuffer)   Type *SyncedBuffer，已经可以使用
+	
+	SyncedBuffer 的值在分配内存或定义之后立刻就可以使用。在这个片段中，p和v都可以在没有任何更进一步处理的情况下工作。
+
+	p := new(SyncedBuffer)  
+	Type *SyncedBuffer，已经可以使用
+
 	var v SyncedBuffer   Type SyncedBuffer，同上
 ```
 
