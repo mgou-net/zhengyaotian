@@ -70,6 +70,14 @@ NUMA node0 CPU(s):     0
 成功编译后，将GOROOT/bin加入到你的path中
 
 
+### 安装lnmp
+
+	wget http://soft.vpser.net/lnmp/lnmp0.9-full.tar.gz
+
+解压缩后,编译安装
+	ubuntu.sh
+
+
 
 
 
