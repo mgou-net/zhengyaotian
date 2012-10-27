@@ -71,6 +71,16 @@ NUMA node0 CPU(s):     0
 
 
 ### 安装lnmp
+<<<<<<< HEAD
+=======
+
+	wget http://soft.vpser.net/lnmp/lnmp0.9-full.tar.gz
+
+解压缩后,编译安装
+	ubuntu.sh
+
+
+>>>>>>> origin/master
 
 	wget http://soft.vpser.net/lnmp/lnmp0.9-full.tar.gz
 
