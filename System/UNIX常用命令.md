@@ -3,4 +3,8 @@
 
 	nohup ./main >/dev/null 2>&1 &
 
-2. 
+2. 用apt-get 升级系统
+
+	apt-get upgrade
+
+它和apt-get dist-upgrade的区别是它只升级已经安装好的软件。 dis-upgrade是将整个系统升级  

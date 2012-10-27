@@ -70,7 +70,37 @@ NUMA node0 CPU(s):     0
 成功编译后，将GOROOT/bin加入到你的path中
 
 
+### 安装lnmp
 
+	wget http://soft.vpser.net/lnmp/lnmp0.9-full.tar.gz
+
+解压缩后,编译安装
+	ubuntu.sh
+
+
+### 配置virtualenv
+
+	apt-get install python-virtualenv
+	virtualenv --no-site-packages dj1.3
+	source {folder}/bin/activate
+	pip install Django==1.3  
+
+### 安装flup
+
+为了fastcgi
+
+
+### 安装 MySQL-Python
+
+	apt-get install libmysqld-dev
+	apt-get install libmysqlclient-dev
+	python setup.py  install
+
+
+### mysql的数据的转移
+
+	mysqldump -u root -p car > car.sql
+	mysql -u root -p car < car.sql
 
 
 
