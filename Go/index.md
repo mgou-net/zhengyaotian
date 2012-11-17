@@ -12,14 +12,12 @@
 
 ### 官方资源
 
-[golang下载](http://code.google.com/p/go/downloads/list)    
-[go wiki](http://code.google.com/p/go-wiki/w/list)    
-[go build result](http://build.golang.org/)    
-[标准包列表](http://golangwiki.org/wiki/index.php?title=%E5%8C%85%E5%88%97%E8%A1%A8)    
+* [golang下载](http://code.google.com/p/go/downloads/list)    
+* [go wiki](http://code.google.com/p/go-wiki/w/list)    
+* [go build result](http://build.golang.org/)    
+* [标准包列表](http://golangwiki.org/wiki/index.php?title=%E5%8C%85%E5%88%97%E8%A1%A8)    
 
-
-
-另：
-* [Go lang cat v](http://go-lang.cat-v.org/)
-* [国人一个信息集中站](https://github.com/wonderfo/wonderfogo/wiki)
+另：    
++ [Go lang cat v](http://go-lang.cat-v.org/)    
++ [国人一个信息集中站](https://github.com/wonderfo/wonderfogo/wiki)     
 
