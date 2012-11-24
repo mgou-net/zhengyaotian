@@ -8,3 +8,6 @@
 	apt-get upgrade
 
 它和apt-get dist-upgrade的区别是它只升级已经安装好的软件。 dis-upgrade是将整个系统升级  
+
+3. setsid让进程在后台运行
+    setsid program
