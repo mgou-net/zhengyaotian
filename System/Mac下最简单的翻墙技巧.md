@@ -34,7 +34,9 @@ ssh可以传送数据，我们可以让那些不加密的网络连接，全部�
 
 3.修改你的浏览器代理为localhost 7000。
 
-例如，如果你用chrome的Proxy Switch Sharp 插件，， 设置Socket5代理: localhost  7000  **注意要选择Socket v5**
+例如，如果你用chrome的Proxy Switch Sharp 插件，， 设置Socks5代理: localhost  7000  **注意要选择Socket v5**
+
+*一定要只设置Socks5代理，其它的都不要设置*
 
 
 ***Linux上的原理和Mac上一样。所以步骤一样***
