@@ -11,9 +11,9 @@
     apt-get install firefox
     Xvfb :1 -screen 0 1024x768x24 2>&1 >/dev/null &
     apt-get install x11-xserver-utils
-    xhost +
-    export DISPLAY=:1
+    pip install pyvirtualdisplay
 
+pyvirtualdisplay 为了解决Unix下display设置问题
 
 ## 演示代码
 
@@ -23,6 +23,10 @@ from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.support.ui import WebDriverWait # available since 2.4.0   
 import time  
 from selenium.webdriver.common.by import By
+
+from pyvirtualdisplay import Display
+display =Display(visible=0, size=(1024,768))
+display.start()
 
 # Create a new instance of the Firefox driver   
 driver = webdriver.Firefox()
