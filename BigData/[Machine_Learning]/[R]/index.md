@@ -1,6 +1,6 @@
 # R
 
-R是一门Machine Learning而生的一门语言，提供了一系列的数据研究工具。
+R语言是主要用于统计分析、绘图的语言和操作环境. 是研究分析数据的必备工具。做Data Mining或者Machine Learning的研究人员会经常用到这门语言。
 
 ## RStudio
 
