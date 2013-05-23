@@ -25,6 +25,7 @@ An example would be the very customizable way of plotting data in R. Secondly, o
 ## Books
 
 [R Cookbook](http://www.amazon.com/gp/product/0596809158/ref=as_li_ss_tl?ie=UTF8&tag=florhart-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0596809158)
+
 [R in Nutshell](http://www.amazon.com/gp/product/059680170X/ref=as_li_ss_tl?ie=UTF8&tag=florhart-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=059680170X)
 
 
